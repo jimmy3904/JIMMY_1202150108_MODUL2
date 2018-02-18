@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="labels_array">
+    <item>Meja 1</item>
+    <item>Meja 2</item>
+    <item>Meja 3</item>
+    </string-array>
+</resources>
